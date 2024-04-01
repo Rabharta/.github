@@ -1,4 +1,4 @@
 # Rabharta
 ## The Party for Workers & Carers
 
-[rabharta.github.io](https://rabharta.github.io/)
+[rabharta.ie](https://rabharta.ie/)
